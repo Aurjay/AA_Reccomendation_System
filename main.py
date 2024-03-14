@@ -1,7 +1,7 @@
 
 import os
 from deep_translator import GoogleTranslator
-x=[]
+xs=[]
 #Here you should replace with your path for file.
 path_dir = "C:\\Users\\Deepak\\Desktop\\azcopy_windows_amd64_10.12.2\\tum\\TUMAI_dataset\\pdp_dataset\\KellerSports"
 Keller_sports = os.listdir(path_dir)
